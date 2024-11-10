@@ -1,6 +1,6 @@
 name: End-to-end tests
 on:
-  # Trigget workflow on any push to any branch
+  # Trigger workflow on any push to any branch
   push:
 
   # Trigger workflow on scheduled basis.
