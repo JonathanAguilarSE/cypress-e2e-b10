@@ -1,0 +1,11 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "username": "TechGlobal",
+  "password": "Test1234",
+  "city": "Des Plaines",
+  "zipCode": "60018",
+  "footerColumnNames": ["Get to Know Us", "Make Money with Us", "Amazon Payment Products", "Let Us Help You"],
+  "tableColumnNames": ["Rank", "Company", "Employees", "Country"]
+}
