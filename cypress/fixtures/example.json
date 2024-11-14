@@ -7,5 +7,7 @@
   "city": "Des Plaines",
   "zipCode": "60018",
   "footerColumnNames": ["Get to Know Us", "Make Money with Us", "Amazon Payment Products", "Let Us Help You"],
-  "tableColumnNames": ["Rank", "Company", "Employees", "Country"]
+  "tableColumnNames": ["Rank", "Company", "Employees", "Country"],
+  "topTenLang": [ "English", "Русский", "日本語", "Español", "Deutsch", "Français", "中文", "Italiano", "Português", "فارسی" ],
+  "numOfArticles": [ "19", "54", "100", "132", "28" ]
 }

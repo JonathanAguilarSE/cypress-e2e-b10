@@ -9,7 +9,7 @@ describe('Keyboard & Mouse Actions', () => {
         cy.clickCard("Actions")
       });
 
-      it('Mouyse actions using Cyporess events', () => {
+      it('Mouse actions using Cyporess events', () => {
         // cy.pause()
         // cy.get('#dropdown-testing').trigger('mouseover')
         

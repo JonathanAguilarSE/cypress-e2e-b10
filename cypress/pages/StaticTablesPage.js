@@ -5,10 +5,7 @@ class StaticTablesPage {
     return cy.get(".header")
   }
 
-
   /* Methods */
-
-  
   
 }
 
