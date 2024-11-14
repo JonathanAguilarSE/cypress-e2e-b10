@@ -34,7 +34,7 @@ describe('Practice 02', () => {
         cy.url().should('include', 'Cypress')
     })
 
-    it.only('Validate Wikipedia Article Numbers for All Languages', function() {
+    it('Validate Wikipedia Article Numbers for All Languages', function() {
         baseWikipediaPage.clickReadWikiBtn()
         baseWikipediaPage.getLangList().each(function($el, i) {
             cy.wrap($el).find('a').should('have.length', this.numOfArticles[i])
